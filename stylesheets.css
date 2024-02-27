@@ -1,0 +1,16 @@
+.ctr {
+    background-color: #faf1f1;
+    padding: 25px;
+    border-radius: 10px;
+    border: 1px solid #4E39B4;
+  }
+
+  #m2 {
+    color: #8039b4;
+    padding: 10px;
+    font-size: 2em;
+  }
+
+a:hover{
+    background-color: yellow;
+}
